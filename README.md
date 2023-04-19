@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Cho-sy%20Github!&fontSize=90" />
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Cho-sy%20Github!&fontSize=90" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cho-sy&show_icons=true"> <br><br>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1208melon)](https://solved.ac/1208melon)
+  
+</div>
+
 <!--
 **cho-sy/cho-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
